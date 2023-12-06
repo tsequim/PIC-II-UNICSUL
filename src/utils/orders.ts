@@ -1,0 +1,88 @@
+import { PRODUCTS } from "./products";
+
+export const ORDERS = [
+  {
+    id: "456781",
+    products: PRODUCTS,
+    status: "Pendente",
+    createdAt: new Date(),
+    seller: "Zeedog",
+  },
+  {
+    id: "456782",
+    products: PRODUCTS,
+    status: "Concluído",
+    createdAt: new Date(),
+    seller: "Zeedog",
+  },
+  {
+    id: "456783",
+    products: PRODUCTS,
+    status: "Recusado",
+    createdAt: new Date(),
+    seller: "Teste",
+  },
+  {
+    id: "456784",
+    products: PRODUCTS,
+    status: "Pendente",
+    createdAt: new Date(),
+    seller: "Zeedog",
+  },
+  {
+    id: "456781",
+    products: PRODUCTS,
+    status: "Pendente",
+    createdAt: new Date(),
+    seller: "Zeedog",
+  },
+  {
+    id: "456782",
+    products: PRODUCTS,
+    status: "Concluído",
+    createdAt: new Date(),
+    seller: "Zeedog",
+  },
+  {
+    id: "456783",
+    products: PRODUCTS,
+    status: "Recusado",
+    createdAt: new Date(),
+    seller: "Teste",
+  },
+  {
+    id: "456784",
+    products: PRODUCTS,
+    status: "Pendente",
+    createdAt: new Date(),
+    seller: "Zeedog",
+  },
+  {
+    id: "456781",
+    products: PRODUCTS,
+    status: "Pendente",
+    createdAt: new Date(),
+    seller: "Zeedog",
+  },
+  {
+    id: "456782",
+    products: PRODUCTS,
+    status: "Concluído",
+    createdAt: new Date(),
+    seller: "Zeedog",
+  },
+  {
+    id: "456783",
+    products: PRODUCTS,
+    status: "Pendente",
+    createdAt: new Date(),
+    seller: "Teste",
+  },
+  {
+    id: "456784",
+    products: PRODUCTS,
+    status: "Pendente",
+    createdAt: new Date(),
+    seller: "Zeedog",
+  },
+];
